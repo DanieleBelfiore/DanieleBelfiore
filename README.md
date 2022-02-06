@@ -11,6 +11,10 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/danielebelfiore/](https://www.linkedin.com/in/danielebelfiore/)
 
+- 🕮 This is my personal book [Vita](http://amzn.eu/9fkSSmd)
+
+- 🌐 This is my website [DreamingBetter](https://sites.google.com/view/dreamingbetter)
+
 - 📫 How to reach me **danielebelfiorepc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
