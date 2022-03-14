@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniele Belfiore</h1>
-<h3 align="center">Tech Leader & Full Stack Web Developer</h3>
+<img src="https://github.com/DanieleBelfiore/DanieleBelfiore/blob/main/header.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielebelfiore&label=Profile%20views&color=0e75b6&style=flat" alt="danielebelfiore" /> </p>
 
