@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielebelfiore" alt="danielebelfiore" /></a> </p>
 
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
+<img align="right" src="https://github.com/DanieleBelfiore/DanieleBelfiore/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
 
 - 🔭 I’m currently working on [Agricolus](https://www.agricolus.com/)
 
