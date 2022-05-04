@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielebelfiore" alt="danielebelfiore" /></a> </p>
 
+<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
+
 - 🔭 I’m currently working on [Agricolus](https://www.agricolus.com/)
 
 - <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="15" width="15" src="https://github.com/DanieleBelfiore/TiramiSu/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"></g-emoji> My main personal open source project is [TiramiSù](https://github.com/DanieleBelfiore/TiramiSu)
