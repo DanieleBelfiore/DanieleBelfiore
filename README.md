@@ -6,11 +6,7 @@
 
 <img align="right" src="https://github.com/DanieleBelfiore/DanieleBelfiore/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
 
-- 🔭 I’m currently working on [Agricolus](https://www.agricolus.com/)
-
-- <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="15" width="15" src="https://github.com/DanieleBelfiore/TiramiSu/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"></g-emoji> My main personal open source project is [TiramiSù](https://github.com/DanieleBelfiore/TiramiSu)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/danielebelfiore/](https://www.linkedin.com/in/danielebelfiore/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/danielebelfiore](https://www.linkedin.com/in/danielebelfiore)
 
 - 🕮 This is my personal book [Vita](http://amzn.eu/9fkSSmd)
 
