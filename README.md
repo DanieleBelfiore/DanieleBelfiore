@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 I regularly write articles on [https://www.linkedin.com/in/danielebelfiore](https://www.linkedin.com/in/danielebelfiore)<br>🕮 This is my personal book [Vita](http://amzn.eu/9fkSSmd)<br>📫 How to reach me **danielebelfiorepc@gmail.com**
+💻 I am a Senior Backend Engineer
 
 
 ## 🌐 Socials:
