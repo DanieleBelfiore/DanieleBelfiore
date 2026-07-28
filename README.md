@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 Backend Tech Lead building production .NET/C# systems since 2012, including 7 years leading a 10‑engineer backend team at Agricolus, scaling a microservices platform on Azure Kubernetes to serve 1,000 agribusiness customers and cutting heavy‑operation runtime by 50%. Most recently Senior Backend Engineer at Fractal Cloud, where I led a 5‑engineer team and cut deployment pipeline time by 80%. Microsoft Certified DevOps Engineer Expert (AZ‑400).
-
+💻 Backend Tech Leadbuilding production.NET/C# systems since 2012, including 7 years leading a 10‑engineer backend team, scaling amicroservices platform on Azure Kubernetes to serve 1,000 agribusiness customers and cutting heavy‑operation runtime by 50%. Most recently Senior Backend Engineer leading a 5‑engineer team, cutting deployment pipeline time by 80%. Microsoft Certified DevOps Engineer Expert (AZ‑400). 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielebelfiore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielebelfiorepc@gmail.com) 
