@@ -17,7 +17,7 @@ I work with companies that need a product built or scaled, teams that need a sen
 
 | Product | What it is | Stack |
 |---|---|---|
-| **[Buy The Way](https://buytheway.app)** | Mobile-first PWA for shared shopping lists with real-time sync. Automated deploy with a dedicated rollback pipeline; unit, end-to-end and accessibility tests in CI. | Vue 3, TypeScript, Pinia, Firebase, Vitest, Playwright, Workbox |
+| **[Buy The Way](https://buy-the-way.danielebelfiore.dev/)** | Mobile-first PWA for shared shopping lists with real-time sync. Automated deploy with a dedicated rollback pipeline; unit, end-to-end and accessibility tests in CI. | Vue 3, TypeScript, Pinia, Firebase, Vitest, Playwright, Workbox |
 | **[Just Analytics](https://just-analytics.danielebelfiore.dev)** | Cookieless web analytics in production for my own sites, with an invite-only beta. An Edge Function collects, a scheduled Function aggregates, a dashboard reads the totals: zero cost on the Netlify Free plan. | TypeScript, Vue 3, Netlify Edge Functions, Netlify Blobs |
 | **[Gittalo](https://gittalo.danielebelfiore.dev)** | Native Git client for macOS: commit graph, line-level staging, side-by-side diffs, optional Claude Code integration. No accounts, no cloud, no telemetry. | Rust, GPUI |
 | **[Doc Anonymizer](https://github.com/DanieleBelfiore/doc-anonymizer)** | Local-first desktop app that redacts personal data from documents. Fully offline by design: documents never leave the machine. Installers for Windows, macOS and Linux. | Python, React, Electron, Tailwind, Ollama, Tesseract OCR |
