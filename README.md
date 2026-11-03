@@ -1,10 +1,10 @@
-## Daniele Belfiore — Senior Backend Engineer & Backend Tech Lead
+## Daniele Belfiore · Freelance Product Engineer
 
-Building production **.NET/C#** systems **since 2012**, including **7 years** leading a **cross-functional team of 10**, scaling a microservices platform on Azure Kubernetes to serve **1,000 companies** and cutting heavy-operation runtime by **50%**.
+I design, build and run **software products end to end**: from a new MVP to an existing platform that has to grow or be rebuilt.
 
-Most recently **Senior Backend Engineer and Product Owner** leading a **cross-functional team of 5**, cutting deployment pipeline time by **80%**.
+Building production **.NET/C#** systems **since 2012**, including **7 years** leading a **cross-functional team of 10**, scaling a microservices platform on Azure Kubernetes to serve **1,000 companies** and cutting heavy-operation runtime by **50%**. Most recently **Senior Backend Engineer and Product Owner** leading a **cross-functional team of 5**, cutting deployment pipeline time by **80%**.
 
-📍 Perugia, Italy (CET) — open to **remote or hybrid** Senior Backend Engineer / Backend Tech Lead roles.
+I work with companies that need a product built or scaled, teams that need a senior engineer or tech lead, and agencies. Remote across Italy, from Perugia (CET).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielebelfiore)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielebelfiorepc@gmail.com)
@@ -13,15 +13,16 @@ Most recently **Senior Backend Engineer and Product Owner** leading a **cross-fu
 
 ---
 
-## Projects
+## Products
 
-| Project | What it is | Stack |
+| Product | What it is | Stack |
 |---|---|---|
-| **[Voyager](https://github.com/DanieleBelfiore/voyager)** | A ride-sharing backend implemented **five times, once per architectural style** — Clean, Hexagonal, Vertical Slice, Modular Monolith, Plugin Microservices with CQRS — so the same domain can be compared side by side. Each variant is a self-contained solution with its own Docker Compose stack. | .NET, C#, MediatR, SignalR, OpenIddict, SQL Server, Redis, RabbitMQ |
-| **[Doc Anonymizer](https://github.com/DanieleBelfiore/doc-anonymizer)** | Local-first desktop app that redacts personal data from documents. Fully offline by design — documents never leave the machine. CPU-only inference, installers for Windows, macOS and Linux. | Python, React, Electron, Tailwind, Ollama, Tesseract OCR |
-| **[Buy The Way](https://github.com/DanieleBelfiore/buy-the-way)** | Mobile-first PWA for shared shopping lists with real-time sync. Automated deploy with a dedicated rollback pipeline; unit, end-to-end and accessibility tests in CI. | Vue 3, TypeScript, Pinia, Firebase, Vitest, Playwright, Workbox |
-| **[Frame Fit](https://github.com/DanieleBelfiore/frame-fit)** | Desktop GUI that batch-crops photos to a target frame using face detection and smart cropping. Standalone binaries with the model embedded — no runtime needed. | Go, Fyne, Pigo, Smartcrop |
-| **[Captcha API](https://github.com/DanieleBelfiore/captcha-api)** | Stateless CAPTCHA generation and validation API with rate limiting and PostgreSQL-backed validation. | Python, FastAPI, PostgreSQL, Docker, Pytest |
+| **[Buy The Way](https://buytheway.app)** | Mobile-first PWA for shared shopping lists with real-time sync. Automated deploy with a dedicated rollback pipeline; unit, end-to-end and accessibility tests in CI. | Vue 3, TypeScript, Pinia, Firebase, Vitest, Playwright, Workbox |
+| **[Just Analytics](https://just-analytics.danielebelfiore.dev)** | Cookieless web analytics in production for my own sites, with an invite-only beta. An Edge Function collects, a scheduled Function aggregates, a dashboard reads the totals: zero cost on the Netlify Free plan. | TypeScript, Vue 3, Netlify Edge Functions, Netlify Blobs |
+| **[Gittalo](https://gittalo.danielebelfiore.dev)** | Native Git client for macOS: commit graph, line-level staging, side-by-side diffs, optional Claude Code integration. No accounts, no cloud, no telemetry. | Rust, GPUI |
+| **[Doc Anonymizer](https://github.com/DanieleBelfiore/doc-anonymizer)** | Local-first desktop app that redacts personal data from documents. Fully offline by design: documents never leave the machine. Installers for Windows, macOS and Linux. | Python, React, Electron, Tailwind, Ollama, Tesseract OCR |
+| **[Voyager](https://github.com/DanieleBelfiore/voyager)** | A ride-sharing backend implemented **five times, once per architectural style** (Clean, Hexagonal, Vertical Slice, Modular Monolith, Plugin Microservices with CQRS), so the same domain can be compared side by side. | .NET, C#, MediatR, SignalR, OpenIddict, SQL Server, Redis, RabbitMQ |
+| **[Britpops](https://britpops.eu)** | Website for a live band, built for a client. | Vue 3, Vite |
 
 ---
 
@@ -29,24 +30,28 @@ Most recently **Senior Backend Engineer and Product Owner** leading a **cross-fu
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Architecture:** Microservices · Domain-Driven Design · CQRS · Event-Driven Architecture · Hexagonal / Clean Architecture
 
-**Practices:** Scrum · Team mentorship · Technical interviewing · Code review · Spec-driven & agentic development
+**Practices:** Spec-driven and agentic development (Claude Code, Cursor) · Code review · Team mentorship · Technical interviewing · Scrum
