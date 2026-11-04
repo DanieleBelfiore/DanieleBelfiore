@@ -4,7 +4,7 @@ I design, build and run **software products end to end**, for my clients and for
 
 Building production **.NET/C#** systems **since 2012**, including **7 years** leading a **cross-functional team of 10**, scaling a microservices platform on Azure Kubernetes to serve **1,000 companies** and cutting heavy-operation runtime by **50%**. Most recently **Senior Backend Engineer and Product Owner** leading a **cross-functional team of 5**, cutting deployment pipeline time by **80%**.
 
-I work with companies that need a product built or scaled, teams that need a senior engineer or tech lead, and agencies. Remote across Italy, from Perugia (CET).
+I work with companies that need a product built or scaled, teams that need a senior engineer or tech lead, and agencies. I also run training in software and AI for individuals, companies and schools. Remote across Italy, from Perugia (CET).
 
 [![Website](https://img.shields.io/badge/Website-danielebelfiore.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielebelfiore.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielebelfiore)
