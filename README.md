@@ -2,7 +2,7 @@
 
 I design, build and run **software products end to end**, for my clients and for myself: from a new MVP to an existing platform that has to grow or be rebuilt.
 
-Building production **.NET/C#** systems **since 2012**, including **7 years** leading a **cross-functional team of 10**, scaling a microservices platform on Azure Kubernetes to serve **1,000 companies** and cutting heavy-operation runtime by **50%**. Most recently **Senior Backend Engineer and Product Owner** leading a **cross-functional team of 5**, cutting deployment pipeline time by **80%**.
+Building production software **since 2012** and **.NET/C#** systems since 2016, including **7 years** leading a **cross-functional team of 10**, scaling a microservices platform on Azure Kubernetes to serve **1,000 companies** and cutting heavy-operation runtime by **50%**. Previously **Senior Backend Engineer and Product Owner** leading a **cross-functional team of 5**, cutting deployment pipeline time by **80%**.
 
 I work with companies that need a product built or scaled, teams that need a senior engineer or tech lead, and agencies. I also run training in software and AI for individuals, companies and schools. Remote across Italy, from Perugia (CET).
 
@@ -18,14 +18,16 @@ I work with companies that need a product built or scaled, teams that need a sen
 
 | Product | What it is | Stack |
 |---|---|---|
-| **[Buy The Way](https://buy-the-way.danielebelfiore.dev)** | Mobile-first PWA for shared shopping lists with real-time sync. Automated deploy with a dedicated rollback pipeline; unit, end-to-end and accessibility tests in CI. | Vue 3, TypeScript, Pinia, Firebase, Vitest, Playwright, Workbox |
+| **[Fit Virtus](https://fitvirtus.it)** | PWA for personal trainers and their clients: programmes, offline workouts, contracts, payments and e-invoicing. Data in the EU, access rules tested with pgTAP, end-to-end tests, staging and rollback. | Vue 3, TypeScript, Supabase, PostgreSQL, Deno, Astro |
+| **[Buy The Way](https://buy-the-way.danielebelfiore.dev)** | Mobile-first PWA for shared shopping lists with real-time sync. A remote MCP server with OAuth lets AI assistants such as Claude edit the user's lists. Automated deploy with a dedicated rollback pipeline; unit, end-to-end and accessibility tests in CI. | Vue 3, TypeScript, Pinia, Firebase, MCP, Vitest, Playwright, Workbox |
 | **[Just Analytics](https://just-analytics.danielebelfiore.dev)** | Cookieless web analytics in production for my own sites, with an invite-only beta. An Edge Function collects, a scheduled Function aggregates, a dashboard reads the totals: zero cost on the Netlify Free plan. | TypeScript, Vue 3, Netlify Edge Functions, Netlify Blobs |
-| **[Gittalo](https://gittalo.danielebelfiore.dev)** | Git GUI client for macOS and Linux: commit graph, line-level staging, side-by-side diffs and AI-generated commit messages. No accounts, no cloud, no telemetry. | Rust, GPUI |
 | **[Doc Anonymizer](https://doc-anonymizer.danielebelfiore.dev)** | App for Mac, Windows and Linux that redacts personal data from documents before you upload them to web services or hand them to an AI. Fully offline: documents never leave the machine. [Repository](https://github.com/DanieleBelfiore/doc-anonymizer). | Python, React, Electron, Tailwind, Ollama, Tesseract OCR |
+| **[Gittalo](https://gittalo.danielebelfiore.dev)** | Git GUI client for macOS and Linux: commit graph, line-level staging, side-by-side diffs and AI-generated commit messages. No accounts, no cloud, no telemetry. | Rust, GPUI |
 | **[Voyager](https://github.com/DanieleBelfiore/voyager)** | A ride-sharing backend implemented **five times, once per architectural style** (Clean, Hexagonal, Vertical Slice, Modular Monolith, Plugin Microservices with CQRS), so the same domain can be compared side by side. | .NET, C#, MediatR, SignalR, OpenIddict, SQL Server, Redis, RabbitMQ |
-| **[Britpops](https://britpops.eu)** | Website for a live band for events and weddings, with a space where couples build their party. Built for a client. | TypeScript, Vue 3 |
 | **[Like Never Belfiore](https://family-board.danielebelfiore.dev)** | My hub: everything I build, in one place. From home recipes to first aid, to the apps I'm working on right now. | Vue 3, Firebase |
+| **[Britpops](https://britpops.eu)** | Website for a live band for events and weddings, with a space where couples build their party. Built for a client. | TypeScript, Vue 3 |
 | **[The Fit Team](https://thefitteam.it)** | Website for the Project inVictus personal trainers in Perugia, with a private area for the coaches. | Astro, Vue 3 |
+| **[Personal Trainer](https://danielebelfiorept.it)** | My personal trainer website, with online contract acceptance and an exercise guide. | Astro, Vue 3 |
 
 ---
 
